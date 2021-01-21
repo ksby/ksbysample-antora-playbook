@@ -1,0 +1,24 @@
+{
+  "name": "ksbysample-antora-playbook",
+  "version": "1.0.0",
+  "description": "Antora をインストールしてドキュメントサイトを生成するためのレポジトリ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ksby/ksbysample-antora-playbook.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ksby/ksbysample-antora-playbook/issues"
+  },
+  "homepage": "https://github.com/ksby/ksbysample-antora-playbook#readme",
+  "devDependencies": {
+    "@antora/cli": "^2.3.4",
+    "@antora/site-generator-default": "^2.3.4"
+  }
+}
