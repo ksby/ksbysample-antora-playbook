@@ -1,0 +1,11 @@
+site:
+  title: ksbysample-document-site
+  start_page: ksbysample-antora::01_simple/index.adoc
+content:
+  sources:
+    - url: https://github.com/ksby/ksbysample-antora.git
+      branches: [v2.0, v1.0]
+ui:
+  bundle:
+    url: https://gitlab.com/antora/antora-ui-default/-/jobs/artifacts/master/raw/build/ui-bundle.zip?job=bundle-stable
+    snapshot: true
