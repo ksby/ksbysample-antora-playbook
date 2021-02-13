@@ -19,6 +19,7 @@
   "homepage": "https://github.com/ksby/ksbysample-antora-playbook#readme",
   "devDependencies": {
     "@antora/cli": "^2.3.4",
-    "@antora/site-generator-default": "^2.3.4"
+    "@antora/site-generator-default": "^2.3.4",
+    "asciidoctor-kroki": "^0.11.0"
   }
 }
